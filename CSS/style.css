@@ -1,0 +1,130 @@
+#contenu{
+    border: 1px solid black;
+    width: 60%;
+    margin: auto;
+    margin-top: 3%;
+}
+
+#gauche{
+
+    float: left;
+    width: 40%;
+    background-color: rgb(237, 252, 255);
+}
+
+#droite{
+    display: table-cell;
+    background-color: rgb(173, 205, 236);
+    width: 60%;
+}
+
+img{
+    width: 150px;
+}
+
+.phone{
+    width: 15px;
+    float: left;
+    margin-left: 15%;
+    margin-right: 5%;
+}
+
+.p1{
+    margin: 20px;
+}
+
+.pl{
+    display: inline;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pgr1{
+    margin-left: 44px;
+}
+.pgr2{
+    margin-left: 10px;
+}
+.pgr3{
+    margin-left: 29px;
+}
+
+.pgr11{
+    margin-left: 20px;
+}
+.pgr22{
+    margin-left: 28px;
+}
+.pgr33{
+    margin-left: 28px;
+}
+
+.icon1{
+    width: 30px;
+    margin-left: 15%;
+}
+.icon2{
+    width: 30px;
+    margin-left: 20%;
+}
+.icon3{
+    width: 30px;
+    margin-left: 20%;
+}
+
+.h5{
+    margin-left: 15%;
+    font-size: smaller;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pl{
+    margin-left: 15%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li{
+    margin-left: 7%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.paragraphe{
+    margin-left: 15%;
+    margin-right: 10%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.profilPicture{
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+h2{
+    margin-left: 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4{
+    margin-top: -3%;
+    margin-left: 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#formation{
+    background-color: rgb(237, 252, 255);
+    width: 80%;
+    margin-left: 10%;
+}
+
+#h5{
+    margin-left: 2%;
+    font-size: x-large;
+}
+
+#h6{
+    margin-left: 10%;
+    font-size: large;
+}
+
+#P{
+    margin-left: 10%;
+}
